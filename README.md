@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about GIS, remote sensing techniques, ecological modeling, and sustainable forestry practices
 
-📫 How to reach me: [your preferred contact method - email/LinkedIn/GitHub]
+📫 How to reach me: https://www.linkedin.com/in/prosper-washaya/
 
 😄 Pronouns:  leaf🌱/me/alone (when I'm coding)
 
