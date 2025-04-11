@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 🔭 I'm currently working on forest monitoring with remote sensing
+
 🌱 I'm currently learning a bit of web development and AI
 👯 I'm looking to collaborate on AI, ecology, agriculture
 🤔 I'm looking for help with applying deep learning algorithms to satellite imagery analysis
